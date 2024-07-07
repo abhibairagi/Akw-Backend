@@ -40,7 +40,7 @@ Pic Store is an application where you can store images
 2. For other available scripts, refer to the `package.json` file.
 
 
-### Prerequists (login as Admin)
+### Prerequisites (login as Admin)
 
 Go to user Collection, change role value to 'admin'
 
