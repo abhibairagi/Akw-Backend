@@ -1,4 +1,4 @@
-# Project Name
+# Pic Store Backend
 
 ## Overview
 Pic Store is an application where you can store images
